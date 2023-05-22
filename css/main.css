@@ -6,3 +6,11 @@ body {
 h1 {
 	color: yellow;
 }
+
+p {
+	color: #ccc;
+}
+
+p a {
+	color: orange;
+}
